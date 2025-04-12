@@ -1,8 +1,7 @@
-.main-topbar-buffer {
-  margin-top: 70px;
+.app-container {
+  font-family: Arial, sans-serif;
 }
 
-.main-grid-item {
-  height: calc(100vh - 85px);
-  padding: 10px;
+.main-content {
+  display: flex;
 }

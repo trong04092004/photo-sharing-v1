@@ -1,8 +1,19 @@
-.topbar-left {
-  flex-grow: 1;
-  font-weight: bold;
+.topbar-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.topbar-right {
-  font-style: italic;
+.topbar-title {
+  flex: 1;
+}
+
+.topbar-center {
+  flex: 2;
+  text-align: center;
+}
+
+.topbar-checkbox {
+  flex: 1;
+  text-align: right;
 }
