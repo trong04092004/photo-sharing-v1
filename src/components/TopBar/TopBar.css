@@ -1,0 +1,8 @@
+.topbar-left {
+  flex-grow: 1;
+  font-weight: bold;
+}
+
+.topbar-right {
+  font-style: italic;
+}
